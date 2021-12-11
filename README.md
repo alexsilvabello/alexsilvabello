@@ -1,4 +1,4 @@
-### Olá sou o Alexandre Silva, estudante de Engenharia de Software. 👋
+### Olá sou o Alexandre Silva, estudante. 👋
 
 
 <div>
