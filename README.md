@@ -21,8 +21,9 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px">
+  ![Snake animation] <img src="https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg"/>
   </div>
-![Snake animation](https://github.com/alexsilvabello/alexsilvabello/blob/output/github-contribution-grid-snake.svg)
+
 </div>
                                                                                                                      
                                                                                                                      
