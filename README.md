@@ -1,8 +1,6 @@
 <h1 align="left">Olá 👋, eu sou Alexandre Silva</h1>
 <h3 align="left">Estudante de Engenharia de Software</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexsilvabello" alt="alexsilvabello" /></a> </p>
-
+<br>
 - 🌱Estou aprendendo **Frameworks, Javascript, Java, Python**
 
 - 💬 Pergunte-me sobre **SQL, HTML, Pascal**
