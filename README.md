@@ -19,7 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsilvabello&show_icons=true&theme=dark&locale=en" alt="alexsilvabello" /></p>-->
 
-<h3>Ajude meus estudos e projetos, faça uma doação de qualquer quantia.</h3>
-<p align="left">
-<a href="https://link.mercadopago.com.br/alexsilvadev" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2019/06/mercado-pago-logo-6.png" width="90" /></a>
-</p>
+
